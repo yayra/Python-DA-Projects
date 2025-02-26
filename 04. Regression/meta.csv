@@ -1,8 +1,0 @@
-value,SOUTH,SEX,UNION,RACE,OCCUPATION,SECTOR,MARR
-0,Person lives elsewhere,Male,Not union member,,,Other,Unmarried
-1,Person lives in South,Female,Union member,Other,Management,Manufacturing,Married
-2,,,,Hispanic,Sales,Construction,
-3,,,,White,Clerical,,
-4,,,,,Service,,
-5,,,,,Professional,,
-6,,,,,Other,,
